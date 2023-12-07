@@ -1,0 +1,9 @@
+-crear carpeta del proyecto
+-crear el ambiente virtual:
+  pip install virtualenv
+-corremos la carpeta virtual:
+  virtualenv env
+-donde env es la carpeta que estamos creando
+-creamos el ambiente virtual
+ingresar a la carpeta env, ingresar a Scripts, y colocar activate (sin cd) e ingresarmos al ambiente.
+AHORA SE PUEDE HACER CUALQUIER INSTALACION DE PIP
